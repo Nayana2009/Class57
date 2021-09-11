@@ -1,0 +1,38 @@
+body{
+    text-align:center;
+}
+#img1{
+    width:175px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+#welcome{
+    height: 800px;
+    color: aliceblue;
+    width: 100%;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    opacity: 0.83;
+}
+h1{
+  font-size:40px;
+    font-family:sans-serif;
+}
+h2{
+ font-family: monospace;   
+    font-size: 30px;
+}
+#name{
+    font-family: cursive;
+}
+#bio{
+    padding: 50px;
+    background:aliceblue;
+   
+}
+p{
+    max-width: 450px;
+    padding-left: 230px;
+    font-family: monospace;
+    font-size: 17px;
+    line-height: 1.3;
+}
